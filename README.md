@@ -416,7 +416,7 @@ We welcome contributions! If you have ideas to improve rural transportation, ple
 
 For queries and collaboration:
 - 📧 Email: [Contact Team SketchSquad]
-- 🌐 Website: [Project Website]
+- 🌐 Website: https://www.behance.net/gallery/238622315/RuraLive
 
 ---
 
