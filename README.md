@@ -107,17 +107,8 @@ Occupation: Bus Depot Administrator
 -------------------------------------------------------------------------------------------------------	
 COMPETITIVE ANALYSIS
 
-Feature / Aspect	Your Rural IVR App	Chalo	APSRTC	CTU	Moovit
-Smartphone App	✔	✔	✔	✔	✔
-Feature-Phone / IVR Support	✔	✖	✖	✔ (SMS/IVR)	✖
-Real-Time Bus Tracking	✔	✔	✔	✔	✔
-Offline / Low-Network Access	✔	✖	✖	✖	✖
-Local Language Support	✔	✔	✔	✔	✔
-Ticketing / Payment	✖ (future)	✔	✔	✔ (long-route)	✔ (city-dependent)
-SMS Alerts / Call Updates	✔	✖	✔	✔	✖
-Rural Coverage	✔	✖	✖	✖	✖
-Low-Cost Setup	✔	✖	✖	✖	✖
-High Innovation Level	✔	✔	✔	✔	✔
+https://www.figma.com/board/T9fqx86COdxV6issXjAyHS/competeitive-analysis?node-id=32-219&t=rdR7n8iB7x49Km4H-1
+
 ----------------------------------------------------------------
 Survey
 I conducted a survey to better understand how different groups in rural and semi-urban regions experience public transportation—especially in areas with poor network connectivity. The participants included rural villagers, daily bus commuters, parents and guardians, and transport department staff.
