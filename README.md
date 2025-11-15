@@ -1,3 +1,12 @@
+Team - SketchSquad
+Members : Naveenkumar N (20230503034)
+          Dharshini K (2023503521)
+          Bharanidharan P (2023503064)
+          Sathish Kumar S (2023503306)
+
+
+
+
 INTRODUCTION
 Smart Bus Tracking System for Rural Areas
 
